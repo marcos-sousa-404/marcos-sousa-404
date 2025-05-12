@@ -51,5 +51,5 @@ Here are some ideas to get you started:
  [![Readme Card](https://stats-rk4evwpye-maruquitus-projects.vercel.app/api/pin/?username=marcos-sousa-404&repo=corretor&theme=dark)](https://github.com/marcos-sousa-404/corretor)
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://stats-rk4evwpye-maruquitus-projects.vercel.app/api/?username=maruquitus&show_icons=true&theme=dark)
-![iuricode](https://stats-rk4evwpye-maruquitus-projects.vercel.app/api/top-langs/?username=maruquitus&hide=html&layout=compact&theme=dark)
+![GitHub Stats](https://stats-rk4evwpye-maruquitus-projects.vercel.app/api/?username=marcos-sousa-404&show_icons=true&theme=dark)
+![iuricode](https://stats-rk4evwpye-maruquitus-projects.vercel.app/api/top-langs/?username=marcos-sousa-404&hide=html&layout=compact&theme=dark)
