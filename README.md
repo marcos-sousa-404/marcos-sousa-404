@@ -11,7 +11,7 @@
 ## 🚀 Minhas Skills
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flask,js,ts,html,css,tailwind,react,mongodb,firebase,nodejs,nestjs,express,ruby,rails,webstorm,vercel,docker,postgres,postman&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,flask,js,ts,html,css,tailwind,react,mongodb,firebase,nodejs,nestjs,express,ruby,rails,webstorm,vite,docker,postgres,postman&perline=10" />
   </a>
 
 ---
