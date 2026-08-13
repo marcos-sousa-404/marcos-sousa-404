@@ -18,7 +18,7 @@
 
 ## 🌐 Principais repositórios
  [![Readme Card](https://stats-rk4evwpye-maruquitus-projects.vercel.app/api/pin/?username=marcos-sousa-404&repo=escola-transparente&theme=dark)](https://github.com/marcos-sousa-404/escola-transparente)
-  [![Readme Card](https://stats-rk4evwpye-maruquitus-projects.vercel.app/api/pin/?username=marcos-sousa-404&repo=messaging-app&theme=dark)](https://github.com/marcos-sousa-404/messaging-app)
+  [![Readme Card](https://stats-rk4evwpye-maruquitus-projects.vercel.app/api/pin/?username=marcos-sousa-404&repo=chatzon&theme=dark)](https://github.com/marcos-sousa-404/chatzon)
  [![Readme Card](https://stats-rk4evwpye-maruquitus-projects.vercel.app/api/pin/?username=marcos-sousa-404&repo=tetoka&theme=dark)](https://github.com/marcos-sousa-404/tetoka)
  [![Readme Card](https://stats-rk4evwpye-maruquitus-projects.vercel.app/api/pin/?username=marcos-sousa-404&repo=calculator&theme=dark)](https://github.com/marcos-sousa-404/calculator)
 
