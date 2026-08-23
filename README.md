@@ -2,7 +2,7 @@
 
 **Desenvolvedor de Software Full-Stack | Web · Mobile · Backend**
 
-Trabalho com **React, React Native, TypeScript e Node.js/NestJS** no desenvolvimento e sustentação de produtos B2B, aplicações mobile, APIs e sistemas em tempo real.
+Trabalho com **React, React Native, TypeScript e Express/NestJS** no desenvolvimento e sustentação de produtos B2B, aplicações mobile, APIs e sistemas em tempo real.
 
 <p>
   <a href="https://marcos-sousa.vercel.app">
